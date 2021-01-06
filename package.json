@@ -1,0 +1,40 @@
+{
+  "title": "Dynamic Form nest Items - antd@4.9.4",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "react-scripts": "1.0.0",
+    "typescript": "^4.0.5"
+  },
+  "dependencies": {
+    "@ant-design/icons": "latest",
+    "antd": "4.9.4",
+    "antd-form-builder": "2.1.2",
+    "koa": "2.13.1",
+    "koa-bodyparser": "4.3.0",
+    "koa-router": "10.0.0",
+    "koa-static": "5.0.0",
+    "koa-views-render": "0.0.1",
+    "koa2-react-view": "1.1.0",
+    "koa2-request": "1.0.4",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-scripts": "^4.0.0",
+    "react-views": "1.0.4"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "keywords": [],
+  "name": "form-bx",
+  "description": null,
+  "version": "0.0.28"
+}
